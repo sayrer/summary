@@ -41,7 +41,7 @@ Automated summaries of IETF contributions are permissible contributions.
 
 Automated summaries of IETF contributions are often useful.
 
-Some examples include mailing list digests, summaries of posting volume, and version control traffic.
+Some examples include mailing list digests, summaries of posting volume, and data concerning version control traffic.
 
 # Conventions and Definitions
 
