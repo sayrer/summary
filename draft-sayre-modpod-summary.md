@@ -8,7 +8,7 @@ submissiontype: IETF
 date:
 consensus: true
 v: 3
-area: "General"
+area: ""
 workgroup: "MODeration PrOceDures"
 keyword:
  - moderation
@@ -16,11 +16,11 @@ keyword:
  - party on
 venue:
   group: "MODeration PrOceDures"
-  type: "Working Group"
+  type: ""
   mail: "mod-discuss@ietf.org"
   arch: "https://mailarchive.ietf.org/arch/browse/mod-discuss/"
-  github: "sayrer/summaries"
-  latest: "https://sayrer.github.io/summary/draft-sayre-modpod-summary.html"  
+  github: "sayrer/summary"
+  latest: "https://sayrer.github.io/summary/draft-sayre-modpod-summary.html"
 
 author:
   fullname: "Robert Sayre"
