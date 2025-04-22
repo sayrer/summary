@@ -3,9 +3,9 @@
 
 
 MODeration PrOceDures                                           R. Sayre
-Internet-Draft                                             21 April 2025
+Internet-Draft                                             22 April 2025
 Intended status: Best Current Practice                                  
-Expires: 23 October 2025
+Expires: 24 October 2025
 
 
                Automated Summaries of IETF Contributions
@@ -48,7 +48,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 23 October 2025.
+   This Internet-Draft will expire on 24 October 2025.
 
 Copyright Notice
 
@@ -95,9 +95,9 @@ Table of Contents
    contribution data.
 
    If an automated summary becomes critical to an IETF effort, it should
-   be transfered to the IETF Tools team.  When there is rough consensus
-   and running code showing that a summary is regularly useful, it
-   should be transfered away from an individual.
+   be transferred to the IETF Tools team.  When there is rough consensus
+   and running code showing that a summary is regularly useful, it must
+   be transferred away from an individual.
 
    If there is no consensus that a summary is useful, it should not be
    regularly sent.
@@ -106,7 +106,8 @@ Table of Contents
 
    IETF procedures cannot depend on the resources of an individual.
    When a summary becomes important enough for participants to object to
-   its absence, it must be transitioned to IETF infrastructure.
+   its absence, as a matter of rough consensus, it must be transitioned
+   to IETF infrastructure.
 
 5.  IANA Considerations
 
