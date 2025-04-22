@@ -51,14 +51,13 @@ Some examples include mailing list digests, summaries of posting volume, and dat
 
 IETF participants often devise new ways of presenting IETF contribution data.
 
-If an automated summary becomes critical to an IETF effort, it should be transfered to the IETF Tools team. When there is rough consensus and running code showing that a summary is regularly useful, it should be transfered away from an individual.
+If an automated summary becomes critical to an IETF effort, it should be transferred to the IETF Tools team. When there is rough consensus and running code showing that a summary is regularly useful, it must be transferred away from an individual.
 
 If there is no consensus that a summary is useful, it should not be regularly sent.
 
 # Security Considerations
 
-IETF procedures cannot depend on the resources of an individual. When a summary becomes important enough for participants to object to its absence, it must be transitioned to IETF infrastructure.
-
+IETF procedures cannot depend on the resources of an individual. When a summary becomes important enough for participants to object to its absence, as a matter of rough consensus, it must be transitioned to IETF infrastructure.
 
 # IANA Considerations
 
